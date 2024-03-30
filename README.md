@@ -42,7 +42,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafikMuradyan&radius=0&theme=arctic&area=true&order=5&custom_title=Contribution%20Graph" height="250" alt="activity-graph graph"  />
 </div>
 
