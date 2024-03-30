@@ -1,4 +1,7 @@
-<h2 align="left">Hey 👋<br>My name is Rafik and I'm a Backend devleoper...</h2>
+<h2 align="left">Hey 👋<br>My name is Rafik</h2>
+<h2
+  Backend wizard conjuring magic in Node.js. Architecting the digital realm with spells of robust server-side solutions and optimizing APIs for seamless integration.
+</h2>
 
 ###
 
