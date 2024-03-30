@@ -1,6 +1,5 @@
 <h2 align="left">
-  Hey 👋<br>
-  My name is Rafik <br>
+  Hey 👋 My name is Rafik <br>
   Backend wizard conjuring magic in Node.js. Architecting the digital realm with spells of robust server-side solutions and optimizing APIs for seamless integration.
 </h2>
 
